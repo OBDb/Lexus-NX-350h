@@ -1,0 +1,5 @@
+command_id: 747.74F.221802
+test_cases:
+- expected_values:
+    NX350H_HVBAT_FAN_1: 0
+  response: 74F0762180200000000

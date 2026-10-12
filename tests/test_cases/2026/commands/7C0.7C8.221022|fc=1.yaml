@@ -1,0 +1,14 @@
+command_id: 7C0.7C8.221022|fc=1
+test_cases:
+- expected_values:
+    NX350H_FLV: 5.24
+  response: 7C805621022020C
+- expected_values:
+    NX350H_FLV: 10.23
+  response: 7C80562102203FF
+- expected_values:
+    NX350H_FLV: 12.8
+  response: 7C8056210220500
+- expected_values:
+    NX350H_FLV: 53.91
+  response: 7C805621022150F

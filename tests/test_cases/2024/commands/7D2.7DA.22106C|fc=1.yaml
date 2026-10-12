@@ -1,0 +1,26 @@
+command_id: 7D2.7DA.22106C|fc=1
+test_cases:
+- expected_values:
+    NX350H_HVBAT_SOC_MAX: 62.5
+    NX350H_HVBAT_SOC_MIN: 28.5
+  response: 7DA0662106C3C7D39
+- expected_values:
+    NX350H_HVBAT_SOC_MAX: 44.5
+    NX350H_HVBAT_SOC_MIN: 21
+  response: 7DA0662106C47592A
+- expected_values:
+    NX350H_HVBAT_SOC_MAX: 37.5
+    NX350H_HVBAT_SOC_MIN: 33.5
+  response: 7DA0662106C4B4B43
+- expected_values:
+    NX350H_HVBAT_SOC_MAX: 85.5
+    NX350H_HVBAT_SOC_MIN: 27
+  response: 7DA0662106C63AB36
+- expected_values:
+    NX350H_HVBAT_SOC_MAX: 78
+    NX350H_HVBAT_SOC_MIN: 76.5
+  response: 7DA0662106C9C9C99
+- expected_values:
+    NX350H_HVBAT_SOC_MAX: 82
+    NX350H_HVBAT_SOC_MIN: 66
+  response: 7DA0662106CA4A484

@@ -1,0 +1,11 @@
+command_id: 7C4.7CC.221001|fc=1
+test_cases:
+- expected_values:
+    NX350H_CABIN_T_V2: 24.94
+  response: 7CC0562100109BE
+- expected_values:
+    NX350H_CABIN_T_V2: 25.3
+  response: 7CC0562100109E2
+- expected_values:
+    NX350H_CABIN_T_V2: 25.97
+  response: 7CC056210010A25

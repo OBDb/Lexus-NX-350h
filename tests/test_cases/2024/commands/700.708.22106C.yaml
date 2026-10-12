@@ -1,0 +1,14 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    NX350H_DIST_SINCE_BAT_DISC: 49713
+  response: 7080562106CC231
+- expected_values:
+    NX350H_DIST_SINCE_BAT_DISC: 49919
+  response: 7080562106CC2FF
+- expected_values:
+    NX350H_DIST_SINCE_BAT_DISC: 49920
+  response: 7080562106CC300
+- expected_values:
+    NX350H_DIST_SINCE_BAT_DISC: 59136
+  response: 7080562106CE700

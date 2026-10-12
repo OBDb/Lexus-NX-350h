@@ -1,0 +1,14 @@
+command_id: 747.74F.220103|fc=1
+test_cases:
+- expected_values:
+    NX350H_ODO: 31606
+  response: 74F0762010302007B76
+- expected_values:
+    NX350H_ODO: 31743
+  response: 74F0762010302007BFF
+- expected_values:
+    NX350H_ODO: 31744
+  response: 74F0762010302007C00
+- expected_values:
+    NX350H_ODO: 37632
+  response: 74F0762010302009300

@@ -1,0 +1,37 @@
+command_id: 747.74F.221F9A
+test_cases:
+- expected_values:
+    NX350H_HYBRID_BAT_CURRENT: 40.9
+  response: |-
+    74F1009621F9A06003F
+    74F21C0019900000000
+- expected_values:
+    NX350H_HYBRID_BAT_CURRENT: 7.8
+  response: |-
+    74F1009621F9A060041
+    74F2100004E00000000
+- expected_values:
+    NX350H_HYBRID_BAT_CURRENT: 68.8
+  response: |-
+    74F1009621F9A060041
+    74F210002B000000000
+- expected_values:
+    NX350H_HYBRID_BAT_CURRENT: -10.1
+  response: |-
+    74F1009621F9A060041
+    74F2100FF9B00000000
+- expected_values:
+    NX350H_HYBRID_BAT_CURRENT: 0.1
+  response: |-
+    74F1009621F9A060041
+    74F21C0000100000000
+- expected_values:
+    NX350H_HYBRID_BAT_CURRENT: -42.6
+  response: |-
+    74F1009621F9A060044
+    74F2100FE5600000000
+- expected_values:
+    NX350H_HYBRID_BAT_CURRENT: -4.2
+  response: |-
+    74F1009621F9A060044
+    74F2100FFD600000000

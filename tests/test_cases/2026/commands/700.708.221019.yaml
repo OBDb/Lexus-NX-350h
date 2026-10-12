@@ -1,0 +1,20 @@
+command_id: 700.708.221019
+test_cases:
+- expected_values:
+    NX350H_INJECTION: DIRECT
+  response: 7080762101901F28AF0
+- expected_values:
+    NX350H_INJECTION: DIRECT
+  response: 7080762101901F98000
+- expected_values:
+    NX350H_INJECTION: DIRECT
+  response: 7080762101901FF8000
+- expected_values:
+    NX350H_INJECTION: BOTH
+  response: '7080762101902178000'
+- expected_values:
+    NX350H_INJECTION: BOTH
+  response: 7080762101902CA8AFD
+- expected_values:
+    NX350H_INJECTION: BOTH
+  response: 7080762101902CE8B09

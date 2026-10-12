@@ -1,0 +1,14 @@
+command_id: 700.708.221043
+test_cases:
+- expected_values:
+    NX350H_EWP_RPM: 150
+    NX350H_EWP_TARGET_VSS: 0
+  response: '708056210430006'
+- expected_values:
+    NX350H_EWP_RPM: 5450
+    NX350H_EWP_TARGET_VSS: 2625
+  response: 7080562104369DA
+- expected_values:
+    NX350H_EWP_RPM: 4200
+    NX350H_EWP_TARGET_VSS: 5250
+  response: 70805621043D2A8

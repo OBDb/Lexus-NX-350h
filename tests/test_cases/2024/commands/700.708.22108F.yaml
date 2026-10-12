@@ -1,0 +1,8 @@
+command_id: 700.708.22108F
+test_cases:
+- expected_values:
+    NX350H_EXHAUST_VVT_OVER_ADV_LEARN_B1: 93.06637
+  response: 7080562108F253A
+- expected_values:
+    NX350H_EXHAUST_VVT_OVER_ADV_LEARN_B1: 94.91207
+  response: 7080562108F25F7
