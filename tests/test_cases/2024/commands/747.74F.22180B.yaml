@@ -1,0 +1,14 @@
+command_id: 747.74F.22180B
+test_cases:
+- expected_values:
+    NX350H_HVBAT_IAT_1: 81.82855
+  response: 74F0562180B4E28
+- expected_values:
+    NX350H_HVBAT_IAT_1: 83.22628
+  response: 74F0562180B4EF0
+- expected_values:
+    NX350H_HVBAT_IAT_1: 83.33809
+  response: 74F0562180B4F00
+- expected_values:
+    NX350H_HVBAT_IAT_1: 87.97156
+  response: 74F0562180B5197

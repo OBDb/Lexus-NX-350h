@@ -1,0 +1,29 @@
+command_id: 700.708.220103
+test_cases:
+- expected_values:
+    NX350H_ENG_ODO: 37658
+  response: 708076201030200931A
+- expected_values:
+    NX350H_ENG_ODO: 37659
+  response: 708076201030200931B
+- expected_values:
+    NX350H_ENG_ODO: 37660
+  response: 708076201030200931C
+- expected_values:
+    NX350H_ENG_ODO: 37695
+  response: 708076201030200933F
+- expected_values:
+    NX350H_ENG_ODO: 37696
+  response: '7080762010302009340'
+- expected_values:
+    NX350H_ENG_ODO: 37697
+  response: '7080762010302009341'
+- expected_values:
+    NX350H_ENG_ODO: 37699
+  response: '7080762010302009343'
+- expected_values:
+    NX350H_ENG_ODO: 37700
+  response: '7080762010302009344'
+- expected_values:
+    NX350H_ENG_ODO: 37701
+  response: '7080762010302009345'

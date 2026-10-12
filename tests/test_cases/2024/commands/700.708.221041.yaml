@@ -1,0 +1,18 @@
+command_id: 700.708.221041
+test_cases:
+- expected_values:
+    NX350H_ECT_IGN: 11.875
+    NX350H_ECT_INIT: 47.5
+  response: 70805621041538C
+- expected_values:
+    NX350H_ECT_IGN: 16.25
+    NX350H_ECT_INIT: 16.25
+  response: 708056210415A5A
+- expected_values:
+    NX350H_ECT_IGN: 23.75
+    NX350H_ECT_INIT: 96.875
+  response: 7080562104166DB
+- expected_values:
+    NX350H_ECT_IGN: 90.625
+    NX350H_ECT_INIT: 83.125
+  response: 70805621041D1C5

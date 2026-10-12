@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.221FA6|fc=1
+test_cases:
+- expected_values:
+    NX350H_ODO_1FA6: 60606.3
+  response: 7DA07621FA600093F6F
+- expected_values:
+    NX350H_ODO_1FA6: 60670
+  response: 7DA07621FA6000941EC
+- expected_values:
+    NX350H_ODO_1FA6: 60672.3
+  response: 7DA07621FA600094203

@@ -1,0 +1,17 @@
+command_id: 7D2.7DA.221040
+test_cases:
+- expected_values:
+    NX350H_TRANSAXLE_OIL_T: 64
+  response: 7DA066210409AB068
+- expected_values:
+    NX350H_TRANSAXLE_OIL_T: 64
+  response: 7DA066210409AF068
+- expected_values:
+    NX350H_TRANSAXLE_OIL_T: 64
+  response: 7DA066210409B0068
+- expected_values:
+    NX350H_TRANSAXLE_OIL_T: 23
+  response: 7DA06621040C9903F
+- expected_values:
+    NX350H_TRANSAXLE_OIL_T: 23
+  response: 7DA06621040CA003F

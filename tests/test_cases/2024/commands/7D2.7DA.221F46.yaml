@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.221F46
+test_cases:
+- expected_values:
+    NX350H_AAT: null
+  response: 7DA04621F4600
+- expected_values:
+    NX350H_AAT: 0
+  response: 7DA04621F4628
+- expected_values:
+    NX350H_AAT: 30
+  response: 7DA04621F4646

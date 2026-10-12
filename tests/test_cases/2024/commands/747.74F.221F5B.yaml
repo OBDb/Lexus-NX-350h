@@ -1,0 +1,8 @@
+command_id: 747.74F.221F5B
+test_cases:
+- expected_values:
+    NX350H_HYBRID_BAT_SOC: 59.21569
+  response: 74F04621F5B97
+- expected_values:
+    NX350H_HYBRID_BAT_SOC: 85.4902
+  response: 74F04621F5BDA

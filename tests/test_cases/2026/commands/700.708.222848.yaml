@@ -1,0 +1,11 @@
+command_id: 700.708.222848
+test_cases:
+- expected_values:
+    NX350H_EOP_CONTROL_VALVE: 0
+  response: '708056228480000'
+- expected_values:
+    NX350H_EOP_CONTROL_VALVE: 703.04829
+  response: 7080562284823FF
+- expected_values:
+    NX350H_EOP_CONTROL_VALVE: 997.39015
+  response: '708056228483311'

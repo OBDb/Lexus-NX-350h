@@ -1,0 +1,92 @@
+command_id: 7D2.7DA.2210A1
+test_cases:
+- expected_values:
+    NX350H_RPM: -341
+    NX350H_TQ: -19.5
+  response: |-
+    7DA100C6210A17EAB7F
+    7DA216503007F640400
+- expected_values:
+    NX350H_RPM: -259
+    NX350H_TQ: -26
+  response: |-
+    7DA100C6210A17EFD7F
+    7DA213603007F300400
+- expected_values:
+    NX350H_RPM: -132
+    NX350H_TQ: -34.5
+  response: |-
+    7DA100C6210A17F7C7E
+    7DA21F203007EEC0400
+- expected_values:
+    NX350H_RPM: -95
+    NX350H_TQ: -35
+  response: |-
+    7DA100C6210A17FA17E
+    7DA21E003007EE80400
+- expected_values:
+    NX350H_RPM: -79
+    NX350H_TQ: -34.625
+  response: |-
+    7DA100C6210A17FB17E
+    7DA21DF03007EEB0400
+- expected_values:
+    NX350H_RPM: -6
+    NX350H_TQ: 0
+  response: |-
+    7DA100C6210A17FFA80
+    7DA2100030080000000
+- expected_values:
+    NX350H_RPM: -2
+    NX350H_TQ: -0.25
+  response: |-
+    7DA100C6210A17FFE80
+    7DA210003007FFE0400
+- expected_values:
+    NX350H_RPM: -2
+    NX350H_TQ: -0.125
+  response: |-
+    7DA100C6210A17FFE80
+    7DA210003007FFF0400
+- expected_values:
+    NX350H_RPM: -1
+    NX350H_TQ: -8.25
+  response: |-
+    7DA100C6210A17FFF7F
+    7DA21B803007FBE0400
+- expected_values:
+    NX350H_RPM: 0
+    NX350H_TQ: -31.75
+  response: |-
+    7DA100C6210A180007F
+    7DA210C03007F020400
+- expected_values:
+    NX350H_RPM: 625
+    NX350H_TQ: 104
+  response: |-
+    7DA100C6210A1827183
+    7DA2148030083400400
+- expected_values:
+    NX350H_RPM: 1013
+    NX350H_TQ: -101.75
+  response: |-
+    7DA100C6210A183F57C
+    7DA21A003007CD20400
+- expected_values:
+    NX350H_RPM: 1824
+    NX350H_TQ: 0.125
+  response: |-
+    7DA100C6210A1872080
+    7DA2103040080010400
+- expected_values:
+    NX350H_RPM: 7625
+    NX350H_TQ: 31
+  response: |-
+    7DA100C6210A19DC980
+    7DA21F4040280F80400
+- expected_values:
+    NX350H_RPM: 9728
+    NX350H_TQ: -7.25
+  response: |-
+    7DA100C6210A1A6007F
+    7DA21C204027FC60400

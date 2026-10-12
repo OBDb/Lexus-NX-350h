@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221F5B|fc=1
+test_cases:
+- expected_values:
+    NX350H_SOC: 25.4902
+  response: 7DA04621F5B41
+- expected_values:
+    NX350H_SOC: 72.94118
+  response: 7DA04621F5BBA

@@ -1,0 +1,56 @@
+command_id: 7D2.7DA.221F9A
+test_cases:
+- expected_values:
+    NX350H_HVBAT_C: 10
+    NX350H_HVBAT_V: 238
+  response: |-
+    7DA1009621F9A0E003B
+    7DA2180006400000000
+- expected_values:
+    NX350H_HVBAT_C: 85.2
+    NX350H_HVBAT_V: 239
+  response: |-
+    7DA1009621F9A0E003B
+    7DA21C0035400000000
+- expected_values:
+    NX350H_HVBAT_C: 140.6
+    NX350H_HVBAT_V: 240
+  response: |-
+    7DA1009621F9A0E003C
+    7DA2100057E00000000
+- expected_values:
+    NX350H_HVBAT_C: 152
+    NX350H_HVBAT_V: 244
+  response: |-
+    7DA1009621F9A0E003D
+    7DA210005F000000000
+- expected_values:
+    NX350H_HVBAT_C: 14.3
+    NX350H_HVBAT_V: 247
+  response: |-
+    7DA1009621F9A0E003D
+    7DA21C0008F00000000
+- expected_values:
+    NX350H_HVBAT_C: 0.1
+    NX350H_HVBAT_V: 248
+  response: |-
+    7DA1009621F9A0E003E
+    7DA2100000100000000
+- expected_values:
+    NX350H_HVBAT_C: -4.2
+    NX350H_HVBAT_V: 248
+  response: |-
+    7DA1009621F9A0E003E
+    7DA2100FFD600000000
+- expected_values:
+    NX350H_HVBAT_C: -1.6
+    NX350H_HVBAT_V: 248
+  response: |-
+    7DA1009621F9A0E003E
+    7DA2100FFF000000000
+- expected_values:
+    NX350H_HVBAT_C: -113.9
+    NX350H_HVBAT_V: 280
+  response: |-
+    7DA1009621F9A0E0046
+    7DA2100FB8D00000000

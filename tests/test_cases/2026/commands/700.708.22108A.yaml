@@ -1,0 +1,14 @@
+command_id: 700.708.22108A
+test_cases:
+- expected_values:
+    NX350H_VVT_IE_DUTY_RATIO_BANK_1: -73.16211
+  response: 7080562108A5132
+- expected_values:
+    NX350H_VVT_IE_DUTY_RATIO_BANK_1: -3.17732
+  response: 7080562108A7DFF
+- expected_values:
+    NX350H_VVT_IE_DUTY_RATIO_BANK_1: -0.04695
+  response: 7080562108A8000
+- expected_values:
+    NX350H_VVT_IE_DUTY_RATIO_BANK_1: 99.92958
+  response: 7080562108AC000

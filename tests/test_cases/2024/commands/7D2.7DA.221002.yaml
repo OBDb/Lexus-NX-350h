@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221002
+test_cases:
+- expected_values:
+    NX350H_AUX_BAT_V: 12.16584
+  response: 7DA0562100226F4
+- expected_values:
+    NX350H_AUX_BAT_V: 14.37648
+  response: 7DA056210022E08
