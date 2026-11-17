@@ -1,14 +1,18 @@
 command_id: 747.74F.220103|fc=1
 test_cases:
 - expected_values:
-    NX350H_ODO: 327
+    NX350H_ODO_RAW: 327
+    NX350H_ODO_UNIT: MI
   response: 74F0762010302000147
 - expected_values:
-    NX350H_ODO: 511
+    NX350H_ODO_RAW: 511
+    NX350H_ODO_UNIT: MI
   response: 74F07620103020001FF
 - expected_values:
-    NX350H_ODO: 512
+    NX350H_ODO_RAW: 512
+    NX350H_ODO_UNIT: MI
   response: 74F0762010302000200
 - expected_values:
-    NX350H_ODO: 1841
+    NX350H_ODO_RAW: 1841
+    NX350H_ODO_UNIT: MI
   response: 74F0762010302000731
